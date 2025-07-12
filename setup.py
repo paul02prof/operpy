@@ -11,7 +11,7 @@ setup(
     description="Package d'operation",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/paul02prof/operpy",
     packages=find_packages(),
     license="MIT",
     classifiers=[
